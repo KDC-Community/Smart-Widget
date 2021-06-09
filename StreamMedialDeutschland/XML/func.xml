@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<playlist_name>Weitere Merkmale der Anwendung</playlist_name>
+
+	<channel>
+		<title>Einstellen der Yandex Region</title>
+		<playlist_url>GetYaBaseInfo</playlist_url>
+		<description><![CDATA[<center>
+			<font color="lime">Erstellen und Löschen von Einträgen für die Yandex Region</font>
+			<hr>
+		]]></description>
+	</channel>
+	<channel>
+		<title>Konfigurieren der Anwendung</title>
+		<playlist_url>Settings</playlist_url>
+		<description><![CDATA[<center>
+			<font color="lime">Konfigurieren der Anwendung</font><hr>
+			<hr><br>Einrichten der grundlegenden Funktionen der Anwendung
+		]]></description>
+	</channel>
+	<channel>
+		<title>Streamen von einem Computer</title>
+		<logo_30x30>comp.png</logo_30x30>
+		<playlist_url>XML/stream.xml</playlist_url>
+		<description><![CDATA[<center>
+			<font color="lime">Der Ausgangsstream von einem Computer über das Ace-Player (VLC).</font>
+			<hr>Einrichten eines Computer-Netzwerk zu jeder Adresse des vorgestellten Playlist.
+			<br>В Ace Player (Wenn Sie Torrents anzuzeigen) oder VLC möchten (wenn uzhno Ausgangsstreams) zu gehen: 
+			<font color="yellow">Tools -> Einstellungen -> Anzeigeeinstellungen -> alle</font> (unten links).
+			<br>Потом <font color="yellow">"Ausgangsstream"</font> und <font color="yellow">"verbinden Standardausgabe stream"</font> schreiben:
+			<br>Für die Ausgabe an einen Fernseher und Computer-:
+			<br><font color="#00ccff">#duplicate{dst=std{access=http,mux=ts,
+			<br>dst=:8902},dst=display}</font> 
+			<br>Nur auf dem TV zu drucken:
+			<br><font color="#00ccff">#std{access=http,mux=ts,dst=:8902}</font> 
+			<br>und auf Speichern klicken.
+			<br>Next - starten Sie das Torrent in Ace-Player oder einen Stream im VLC, gehen Sie auf Fernsehapparat in dieser Playlist, wählen Sie die IP-Adresse Ihres Computers und Zeit.
+		]]></description>
+	</channel>
+
+</items>

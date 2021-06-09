@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>USB</playlist_name>
+
+<channel>
+	<title>Scanner USB</title>
+	<playlist_url>ScanUSB</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:24px;">Ansicht Dateien und Ordner auf dem angeschlossenen USB-Laufwerk.</td></tr></table><table style="width:100%; padding-top:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table><center><br>Um von einem USB-Stick ein Widget zu installieren:</center>-Das Widget muss als .zip .rar auf dem USB - Stick vorhanden sein. Wählen Sie das zu installierende Widget und drücken Sie zweimal "ENTER"; <br>-wenn eine erfolgreiche Installation angezeigt wurde;<br>-Widget verlassen, Smart-Hub verlassen und TV für ein paar Sekunden ausschalten, einschalten und dann sollte das neue Widget auf dem TV installiert sein!]]></description>
+</channel>
+
+<channel>
+	<title>Suchen auf einem USB-Laufwerk</title>
+	<playlist_url>SearchUSB</playlist_url>
+	<search_on>Suche auf USB</search_on>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:24px;">Allgemeine Suche von Dateien auf dem angeschlossenen USB-Laufwerk.</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table><center>Um genug ist, um den ersten Buchstaben des Dateinamens selbst gestalten.</center>]]></description>
+</channel>
+
+<channel>
+	<title><![CDATA[Aufruf USB <font color="#00ccff">My.xml</font>]]></title>
+	<playlist_url>SearchUSB/My.xml</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:24px;">Suchen Sie die Playlist mit dem angegebenen Namen auf dem externen USB-Speichermedien.</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>Benennen Sie Ihre Playlist <font color="#00ccff">"My.xml" </font> und kopieren Sie sie auf ein USB-Laufwerk und schließen Sie dieses an den Fernseher an.]]></description>
+</channel>
+
+<channel>
+	<title><![CDATA[Aufruf USB <font color="#00ccff">My.m3u</font>]]></title>
+	<playlist_url>SearchUSB/My.m3u</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:24px;">Suchen Sie die Playlist mit dem angegebenen Namen auf dem externen USB-Speichermedien .</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>Benennen Sie Ihre Playlist  <font color="#00ccff">"My.m3u"</font> und kopieren Sie sie auf ein USB-Laufwerk und schließen Sie dieses an den Fernseher an.]]></description>
+</channel>
+
+</items>

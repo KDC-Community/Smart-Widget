@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+
+<channel>
+	<title><![CDATA[<font color='#00dd00'>Ctrl_Esc_Portal</font>]]></title>
+	<logo_30x30>logos/Esc.jpg</logo_30x30>
+	<playlist_url>http://tox303.bplaced.net/lmod/sam.xml</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/5LelUfo.jpg" height="128" width="128"></img></td><td><h2>Ctrl Esc Portal</h2>Deutsche Playlisten.<br>TV, VOD, SPORT, XXX</td></tr></table>]]></description>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#00dd00'>Kodinerds Free TV</font>]]></title>
+	<logo_30x30>logos/nerds.jpg</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>Kodinerds Free TV</h2>Deutsche Inhalte. TV und Radio</td></tr></table>]]></description>
+	<playlist_url>http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u</playlist_url>
+</channel>
+<channel>
+	<title>Andere Portale</title>
+	<logo_30x30>logos/500.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/500.png" height="128" width="128"></img></td><td><h2>Andere Portale</h2>Old Skool Portal Inhalte</td></tr></table>]]></description>
+	<playlist_url>http://quax.square7.ch/XML/portal/nstreamevo.xml</playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[Historie]]></title>
+<playlist_url>OpenHistory</playlist_url>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/history.png" height="128" width="128"></img></td><td style="width:100%;text-align:center;font-size:22px;">Die Geschichte der wichtigsten Aktionen des Benutzers.</td></tr></table><table style="width:100%; padding-top:4px;"><td></td></tr></table>]]></description>
+<logo_30x30>logos/history1.png</logo_30x30>
+</channel>
+
+<channel>
+<title><![CDATA[Favoriten]]></title>
+<playlist_url>OpenFav</playlist_url>
+<description><![CDATA[<center><table style="width:430px;"><tr><td style="vertical-align: top"><img src="logos/fav.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:22px;">"Favoriten"</td></tr></table></center><table style="width:100%; padding-top:4px;"><td></td></tr></table>]]></description>
+<logo_30x30>logos/fav1.png</logo_30x30>
+</channel>
+
+<channel>
+<title><![CDATA[USB-Laufwerk]]></title>
+<playlist_url>XML/usb.xml</playlist_url>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:22px;">Ansicht von Dateien und Ordnern auf dem angeschlossenen USB-Laufwerk.</td></tr></table><table style="width:100%;;"><td></td></tr></table>]]>
+</description>
+<logo_30x30>logos/usb_logo1.png</logo_30x30>
+</channel>
+
+<channel>
+<title>Weitere Einstellungen</title>
+<playlist_url>XML/func.xml</playlist_url>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/setting.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:22px;">Konfigurieren der Anwendung.</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><td></td></tr></table>]]></description>
+<logo_30x30>logos/open.png</logo_30x30>
+</channel>
+
+<channel>
+<title>Hilfe</title>
+<playlist_url>XML/help.xml</playlist_url>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/help.png" height="128" width="128"></img></td><td style="width:100%; text-align:center;font-size:22px;">Zusammenfassung von Hilfsinformationen.</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><td></td></tr></table>]]></description>
+<logo_30x30>logos/help.png</logo_30x30>
+</channel>
+
+<channel>
+    <title><![CDATA[<font color="ff7f24">Wetter (Weather)</font>]]></title>
+    <logo_30x30>logos/weather.png</logo_30x30>
+    <description><![CDATA[<a href="http://whos.amung.us/stats/lu9kgcby4q5n"><img src="http://whos.amung.us/widget/lu9kgcby4q5n.png" alt="web stats" width="75" height="25" border="0"/></a> Klicken Sie auf OK - Mehrtagesprognose (nach IP)<br><center><iframe style="margin-top:20px;margin-left:0px; width:200px; height:300px; background-color:#6d6d6f; border:solid 0px #320101" src="http://meteo.ua/informer/get.php?cities=100625144&w=200&lang=ru&rnd=0&or=vert&clr=25&dt=today&style=modern"></iframe><br><br><hr>Auf der Seite http://meteo.ua/informers</center><br>Sie können eine Stadt, eine Farbe usw. auswählen und im HTML-Code nachsehen<br> Parameter jeweils cities=,clr= <br> und wechseln Sie zu den gewünschten im Widget, indem Sie in den Bearbeitungsmodus wechseln.]]></description>
+    <playlist_url>XML/weather.xml</playlist_url>
+</channel>
+
+<channel>
+<title>StreamPlayer Beenden </title>
+<playlist_url>exsmart</playlist_url>
+<description><![CDATA[<center>
+<font color="#ffffff">Beenden der Anwendung</font><hr>
+<img src="logos/exit.png" height="128"/><hr><br>Um aus der Anwendung wieder zum Smart TV zu gelangen
+<br>Klicken Sie auf diese Schaltfläche,<hr>
+<br>Wenn sie die Anwendung verlassen möchsten<br>dann doppelklicken Sie auf "exit" bei jedem Menü .]]>
+</description>
+<logo_30x30>logos/exit.png</logo_30x30>
+</channel>
+
+</items>

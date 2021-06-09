@@ -1,0 +1,801 @@
+#EXTM3U
+
+# ===================
+## Edited by 		: Ctrl_Esc
+# Playlist Name		: mf.m3u
+# Hoster (ZZZ)		: http://mytv.fun:8080
+# Username (NNN)	: 
+# Password (WWW)	: 
+# EPG				: http:///mytv.fun:8080/xmltv.php?username=NNN&password=WWW
+#
+# Real URL	.ts		: http://mytv.fun:8080/NNN/WWW/12345
+#
+# Real URL	.m3u8	: http://mytv.fun:8080/live/NNN/WWW/12345.m3u8
+#
+## Also URL			: 
+#					(tv.ipflix.click:8080)
+#					(mag.you24.online:8080)
+#					(iptv.rent:8080)
+#
+# ===================
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/35YATX6" group-title="Germany",[B][COLOR lime]===  Main & Regional  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste HD DE" tvg-logo="https://bit.ly/3inyFpo" group-title="Germany",Das Erste HD DE
+http://mytv.fun:8080/live/NNN/WWW/13166.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-logo="https://bit.ly/2N8pkWK" group-title="Germany",Das Erste DE
+http://mytv.fun:8080/live/NNN/WWW/6256.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste (B) DE" tvg-logo="https://bit.ly/2N8pkWK" group-title="Germany",Das Erste (B) DE
+http://mytv.fun:8080/live/live/NNN/WWW/6262.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD DE" tvg-logo="https://bit.ly/38UqpK9" group-title="Germany",ZDF FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6151.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="https://bit.ly/38VRI6X" group-title="Germany",ZDF HD DE
+http://mytv.fun:8080/live/NNN/WWW/17011.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD DE" tvg-logo="https://bit.ly/3qxHXSt" group-title="Germany",WDR HD DE
+http://mytv.fun:8080/live/NNN/WWW/6152.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://bit.ly/3ipf1t3" group-title="Germany",NDR HD DE
+http://mytv.fun:8080/live/NNN/WWW/6225.m3u8
+#EXTINF:-1 tvg-id="sylt1.de" tvg-name="Sylt1" tvg-logo="https://bit.ly/3t3Lzhd" group-title="Germany",Sylt1 HD DE
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR S-Anhalt HD DE" tvg-logo="https://bit.ly/38W2yKl" group-title="Germany",MDR S-Anhalt HD DE
+http://mytv.fun:8080/live/NNN/WWW/8240.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR Sachsen HD DE" tvg-logo="https://bit.ly/2XV2WSS" group-title="Germany",MDR Sachsen HD DE
+http://mytv.fun:8080/live/NNN/WWW/8239.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD DE" tvg-logo="https://bit.ly/3oRIJJD" group-title="Germany",MDR HD DE
+http://mytv.fun:8080/live/NNN/WWW/6238.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin HD DE" tvg-logo="https://bit.ly/2LJ5bX2" group-title="Germany",RBB Berlin HD DE
+http://mytv.fun:8080/live/NNN/WWW/6217.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD DE" tvg-logo="https://bit.ly/39Nui2Q" group-title="Germany",SWR HD DE
+http://mytv.fun:8080/live/NNN/WWW/6165.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FHD DE" tvg-logo="https://bit.ly/38TkLIu" group-title="Germany",HR FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13150.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="https://bit.ly/38TkLIu" group-title="Germany",HR HD DE
+http://mytv.fun:8080/live/NNN/WWW/6243.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR Fernsehen HD DE" tvg-logo="https://bit.ly/38TkLIu" group-title="Germany",HR Fernsehen HD DE
+http://mytv.fun:8080/live/NNN/WWW/8225.m3u8
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR DE" tvg-logo="https://bit.ly/3ir3jhA" group-title="Germany",BR DE
+http://mytv.fun:8080/live/NNN/WWW/13168.m3u8
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="Alpha HD DE" tvg-logo="https://bit.ly/35TfCOG" group-title="Germany",Alpha HD DE
+http://mytv.fun:8080/live/NNN/WWW/13171.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="https://bit.ly/3p1ynHa" group-title="Germany",ZDF Neo HD DE
+http://mytv.fun:8080/live/NNN/WWW/17304.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD DE" tvg-logo="http://pici.life/DE/3sat.png" group-title="Germany",3Sat FHD DE
+http://mytv.fun:8080/live/NNN/WWW/16289.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="http://pici.life/3sathd.png" group-title="Germany",3sat HD DE
+http://mytv.fun:8080/live/NNN/WWW/6265.m3u8
+#EXTINF:-1 tvg-id="srf1.de" tvg-name="SRF 1 DE" tvg-logo="https://bit.ly/38SafRI" group-title="Germany",SRF 1 DE
+http://mytv.fun:8080/live/NNN/WWW/6170.m3u8
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="Servus TV HD DE" tvg-logo="https://bit.ly/3sB0kb1" group-title="Germany",Servus TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/6208.m3u8
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-logo="http://pici.life/DE/Augsburg_tv.PNG" group-title="Germany",Augsburg TV DE
+http://mytv.fun:8080/live/NNN/WWW/13170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="https://bit.ly/2NioGGr" group-title="Germany",Franken Fernsehen FHD DE
+http://mytv.fun:8080/live/NNN/WWW/677835.m3u8
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV FHD DE" tvg-logo="http://pici.life/familytv.png" group-title="Germany",BW Family TV FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6246.m3u8
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV HD DE" tvg-logo="http://pici.life/DE/familytv.png" group-title="Germany",BW Family TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/23772.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD DE" tvg-logo="https://bit.ly/3oYD8Bd" group-title="Germany",RTL FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13565.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="https://bit.ly/3oYD8Bd" group-title="Germany",RTL HD DE
+http://mytv.fun:8080/live/NNN/WWW/6216.m3u8
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="Sat.1 FHD DE" tvg-logo="https://bit.ly/3qzOKv8" group-title="Germany",Sat.1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6210.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 FHD DE" tvg-logo="https://bit.ly/2M5vwy9" group-title="Germany",Pro 7 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6220.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro Sieben FHD DE" tvg-logo="https://bit.ly/2M5vwy9" group-title="Germany",Pro Sieben FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8235.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro Sieben HD DE" tvg-logo="https://bit.ly/39N4ILx" group-title="Germany",Pro Sieben HD DE
+http://mytv.fun:8080/live/NNN/WWW/13144.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX FHD DE" tvg-logo="https://bit.ly/2XYRIN7" group-title="Germany",VOX FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13553.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX DE" tvg-logo="https://bit.ly/35OO9xu" group-title="Germany",VOX DE
+http://mytv.fun:8080/live/NNN/WWW/6153.m3u8
+#EXTINF:-1 tvg-id="voxup.de" tvg-name="VOX UP DE" tvg-logo="https://bit.ly/3oXUnCS" group-title="Germany",VOX UP DE
+http://mytv.fun:8080/live/NNN/WWW/679836.m3u8
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="Kabel 1 FHD DE" tvg-logo="https://bit.ly/2LKf8n5" group-title="Germany",Kabel 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6242.m3u8
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic HD DE" tvg-logo="https://bit.ly/3nVC1RD" group-title="Germany",Kabel 1 Classic HD DE
+http://mytv.fun:8080/live/NNN/WWW/9151.m3u8
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel Eins Classics HD DE" tvg-logo="https://bit.ly/2KuGRaQ" group-title="Germany",Kabel Eins Classics HD DE
+http://mytv.fun:8080/live/NNN/WWW/679844.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="https://bit.ly/38T8xzl" group-title="Germany",Tele 5 HD DE
+http://mytv.fun:8080/live/NNN/WWW/9150.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://bit.ly/38V4tyT" group-title="Germany",Sixx FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6207.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 FHD DE" tvg-logo="https://bit.ly/39HTVlQ" group-title="Germany",RTL 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6215.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD DE" tvg-logo="https://bit.ly/2LJeztK" group-title="Germany",RTL 2 HD DE
+http://mytv.fun:8080/live/NNN/WWW/13136.m3u8
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living FHD DE" tvg-logo="https://bit.ly/2Nc7Clb" group-title="Germany",RTL Living FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6150.m3u8
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD DE" tvg-logo="https://bit.ly/2XYTDkN" group-title="Germany",RTL Living HD DE
+http://mytv.fun:8080/live/NNN/WWW/6213.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="https://bit.ly/35S7UUK" group-title="Germany",RTL Nitro FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6212.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD DE" tvg-logo="https://bit.ly/35OKorS" group-title="Germany",RTL Nitro HD DE
+http://mytv.fun:8080/live/NNN/WWW/13137.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL FHD DE" tvg-logo="http://pici.life/DE/superrtlhd.png" group-title="Germany",Super RTL FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13554.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL HD DE" tvg-logo="http://pici.life/superrtlhd.png" group-title="Germany",Super RTL HD DE
+http://mytv.fun:8080/live/NNN/WWW/6166.m3u8
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="https://bit.ly/35QmNqE" group-title="Germany",RTL Passion FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8219.m3u8
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="RTL Plus DE" tvg-logo="https://bit.ly/39IHB4z" group-title="Germany",RTL Plus DE
+http://mytv.fun:8080/live/NNN/WWW/9152.m3u8
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD DE" tvg-logo="https://bit.ly/3sBJ45t" group-title="Germany",RTL Crime FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6214.m3u8
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://bit.ly/3iq93bf" group-title="Germany",RTL Crime HD DE
+http://mytv.fun:8080/live/NNN/WWW/17012.m3u8
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion DE" tvg-logo="https://bit.ly/2LAy3Rn" group-title="Germany",Sat1 Emotion DE
+http://mytv.fun:8080/live/NNN/WWW/13135.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold FHD DE" tvg-logo="https://bit.ly/38TQngU" group-title="Germany",Sat1 Gold FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6209.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun FHD DE" tvg-logo="https://bit.ly/39IMrif" group-title="Germany",Pro 7 Fun FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6219.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD DE" tvg-logo="https://bit.ly/39IMrif" group-title="Germany",Pro 7 Fun HD DE
+http://mytv.fun:8080/live/NNN/WWW/13145.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro Sieben Fun HD DE" tvg-logo="https://bit.ly/39IMrif" group-title="Germany",Pro Sieben Fun HD DE
+http://mytv.fun:8080/live/NNN/WWW/13142.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Max FHD DE" tvg-logo="https://bit.ly/2LAiKrV" group-title="Germany",Pro 7 Max FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6218.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx FHD DE" tvg-logo="https://bit.ly/2LAiKrV" group-title="Germany",Pro Sieben Maxx FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8234.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx HD DE" tvg-logo="https://bit.ly/35Qg7c4" group-title="Germany",Pro Sieben Maxx HD DE
+http://mytv.fun:8080/live/NNN/WWW/13143.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="https://bit.ly/35T2sBd" group-title="Germany",Comedy Central FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6154.m3u8
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC HD DE" tvg-logo="https://bit.ly/2KqdTbZ" group-title="Germany",QVC HD DE
+http://mytv.fun:8080/live/NNN/WWW/13140.m3u8
+#EXTINF:-1 tvg-id="qvcbeautyandstyle.de" tvg-name="QVC Beauty & Style DE" tvg-logo="https://bit.ly/2NbWp45" group-title="Germany",QVC Beauty & Style DE
+http://mytv.fun:8080/live/NNN/WWW/13141.m3u8
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV FHD DE" tvg-logo="https://bit.ly/35TkAe7" group-title="Germany",Sonnenklar TV FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13130.m3u8
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD DE" tvg-logo="https://bit.ly/2Y4TZqt" group-title="Germany",Bibel TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/677497.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/2XWRKFl" group-title="Sky",[B][COLOR lime]===  Sky  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Action HD DE" tvg-logo="https://bit.ly/39E2f5Z" group-title="Sky",Sky Action HD DE
+http://mytv.fun:8080/live/NNN/WWW/5093.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Action DE" tvg-logo="https://bit.ly/39E2f5Z" group-title="Sky",Sky Action DE
+http://mytv.fun:8080/live/NNN/WWW/6205.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD DE" tvg-logo="https://bit.ly/39E2f5Z" group-title="Sky",Sky Cinema Action HD DE
+http://mytv.fun:8080/live/NNN/WWW/7370.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action DE" tvg-logo="https://bit.ly/39E2f5Z" group-title="Sky",Sky Cinema Action DE
+http://mytv.fun:8080/live/NNN/WWW/9146.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="https://bit.ly/38Pfh1f" group-title="Sky",Sky Cinema Special FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8217.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD DE" tvg-logo="https://bit.ly/38Pfh1f" group-title="Sky",Sky Cinema Special HD DE
+http://mytv.fun:8080/live/NNN/WWW/6252.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="https://bit.ly/2Kp1F3v" group-title="Sky",Sky Cinema Thriller FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5089.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="https://bit.ly/2Kp1F3v" group-title="Sky",Sky Cinema Thriller HD DE
+http://mytv.fun:8080/live/NNN/WWW/7372.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller DE" tvg-logo="https://bit.ly/2Kp1F3v" group-title="Sky",Sky Cinema Thriller DE
+http://mytv.fun:8080/live/NNN/WWW/6193.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://bit.ly/38Q2Cv5" group-title="Sky",Sky Cinema Premieren FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6194.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="https://bit.ly/3qv3r2l" group-title="Sky",Sky Cinema Premieren HD DE
+http://mytv.fun:8080/live/NNN/WWW/7373.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://bit.ly/2LxqMSl" group-title="Sky",Sky Cinema Premieren +24 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6192.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="https://bit.ly/2LxqMSl" group-title="Sky",Sky Cinema Premieren +24 HD DE
+http://mytv.fun:8080/live/NNN/WWW/13133.m3u8
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="https://bit.ly/2LxqPxv" group-title="Sky",Sky Cinema Fun HD DE
+http://mytv.fun:8080/live/NNN/WWW/9144.m3u8
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://bit.ly/2LxqPxv" group-title="Sky",Sky Cinema Fun DE
+http://mytv.fun:8080/live/NNN/WWW/6190.m3u8
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="https://bit.ly/3oVgauX" group-title="Sky",Sky Cinema Best Of FHD DE
+http://mytv.fun:8080/live/NNN/WWW/7368.m3u8
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="https://bit.ly/3oVgauX" group-title="Sky",Sky Cinema Best Of HD DE
+http://mytv.fun:8080/live/NNN/WWW/8223.m3u8
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best of DE" tvg-logo="https://bit.ly/3oVgauX" group-title="Sky",Sky Cinema Best of DE
+http://mytv.fun:8080/live/NNN/WWW/5088.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="https://bit.ly/38Ua0We" group-title="Sky",Sky Cinema Family FHD DE
+http://mytv.fun:8080/live/NNN/WWW/9145.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="https://bit.ly/38Ua0We" group-title="Sky",Sky Cinema Family HD DE
+http://mytv.fun:8080/live/NNN/WWW/7369.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="Sky Cinema Emotion DE" tvg-logo="https://bit.ly/3oTixhD" group-title="Sky",Sky Cinema Emotion DE
+http://mytv.fun:8080/live/NNN/WWW/13132.m3u8
+#EXTINF:-1 tvg-id="skycinemaemotion.de" tvg-name="Sky Emotion DE" tvg-logo="https://bit.ly/3oTixhD" group-title="Sky",Sky Emotion DE
+http://mytv.fun:8080/live/NNN/WWW/6189.m3u8
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics HD DE" tvg-logo="https://bit.ly/3sBpK8z" group-title="Sky",Sky Cinema Classics HD DE
+http://mytv.fun:8080/live/NNN/WWW/13131.m3u8
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://bit.ly/3sCIGDS" group-title="Sky",Sky Cinema Classics DE
+http://mytv.fun:8080/live/NNN/WWW/6186.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD DE" tvg-logo="https://bit.ly/2XMJojJ" group-title="Sky",Sky Atlantic HD DE
+http://mytv.fun:8080/live/NNN/WWW/7367.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic DE" tvg-logo="https://bit.ly/2XMJojJ" group-title="Sky",Sky Atlantic DE
+http://mytv.fun:8080/live/NNN/WWW/6204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic +1 HD DE" tvg-logo="https://bit.ly/2XMJojJ" group-title="Sky",Sky Atlantic +1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/13134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Serien & Shows FHD DE" tvg-logo="https://bit.ly/3ipsYXS" group-title="Sky",Sky Serien & Shows FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681935.m3u8
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi HD DE" tvg-logo="https://bit.ly/2LGz1eO" group-title="Sky",Sky Krimi HD DE
+http://mytv.fun:8080/live/NNN/WWW/8220.m3u8
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation FHD DE" tvg-logo="https://bit.ly/2XVc7mi" group-title="Sky",Crime & Investigation FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6263.m3u8
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD DE" tvg-logo="https://bit.ly/3qqYZSa" group-title="Sky",Crime & Investigation HD DE
+http://mytv.fun:8080/live/NNN/WWW/8197.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="https://bit.ly/3nRfLIE" group-title="Sky",13TH Street HD DE
+http://mytv.fun:8080/live/NNN/WWW/7365.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://bit.ly/3nRfLIE" group-title="Sky",13th Street FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5098.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD DE" tvg-logo="https://bit.ly/3nRfLIE" group-title="Sky",13th Street HD DE
+http://mytv.fun:8080/live/NNN/WWW/8198.m3u8
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN FHD DE" tvg-logo="https://bit.ly/35RFjiz" group-title="Sky",AXN FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5097.m3u8
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD DE" tvg-logo="https://bit.ly/35RFjiz" group-title="Sky",AXN HD DE
+http://mytv.fun:8080/live/NNN/WWW/6259.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal FHD DE" tvg-logo="https://bit.ly/38VORLn" group-title="Sky",Universal FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5265.m3u8
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony HD DE" tvg-logo="https://bit.ly/35Qpmct" group-title="Sky",Sony HD DE
+http://mytv.fun:8080/live/NNN/WWW/6167.m3u8
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt HD DE" tvg-logo="https://bit.ly/3qAyFVZ" group-title="Sky",Kinowelt HD DE
+http://mytv.fun:8080/live/NNN/WWW/6240.m3u8
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt DE" tvg-logo="https://bit.ly/3qx4HC0" group-title="Sky",Kinowelt DE
+http://mytv.fun:8080/live/NNN/WWW/672086.m3u8
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD DE" tvg-logo="https://bit.ly/35RjnnI" group-title="Sky",TNT Comedy FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6157.m3u8
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://bit.ly/3syGCwx" group-title="Sky",TNT Film FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6156.m3u8
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://bit.ly/3bQkIPy" group-title="Sky",TNT Serie FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5084.m3u8
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie HD DE" tvg-logo="https://bit.ly/3bQkIPy" group-title="Sky",TNT Serie HD DE
+http://mytv.fun:8080/live/NNN/WWW/6155.m3u8
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie DE" tvg-logo="https://bit.ly/3bQkIPy" group-title="Sky",TNT Serie DE
+http://mytv.fun:8080/live/NNN/WWW/13154.m3u8
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One FHD DE" tvg-logo="https://bit.ly/39KRcb1" group-title="Sky",Sky One FHD DE
+http://mytv.fun:8080/live/NNN/WWW/9138.m3u8
+#EXTINF:-1 tvg-id="one.de" tvg-name="One HD DE" tvg-logo="https://bit.ly/39KRcb1" group-title="Sky",Sky One HD DE
+http://mytv.fun:8080/live/NNN/WWW/9147.m3u8
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox FHD DE" tvg-logo="https://bit.ly/3nVpgq3" group-title="Sky",Fox FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13567.m3u8
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox HD DE" tvg-logo="https://bit.ly/3nVpgq3" group-title="Sky",Fox HD DE
+http://mytv.fun:8080/live/NNN/WWW/6245.m3u8
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox DE" tvg-logo="https://bit.ly/3nVpgq3" group-title="Sky",Fox DE
+http://mytv.fun:8080/live/NNN/WWW/23770.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy FHD DE" tvg-logo="https://bit.ly/3sDPYqG" group-title="Sky",Syfy FHD DE
+http://mytv.fun:8080/live/NNN/WWW/7364.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD DE" tvg-logo="https://bit.ly/3sDPYqG" group-title="Sky",Syfy HD DE
+http://mytv.fun:8080/live/NNN/WWW/5087.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy DE" tvg-logo="https://bit.ly/3sDPYqG" group-title="Sky",Syfy DE
+http://mytv.fun:8080/live/NNN/WWW/6164.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD DE" tvg-logo="https://bit.ly/39MvzHk" group-title="Sky",Romance TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/13152.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV DE" tvg-logo="https://bit.ly/39MvzHk" group-title="Sky",Romance TV DE
+http://mytv.fun:8080/live/NNN/WWW/6211.m3u8
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal DE" tvg-logo="https://bit.ly/3bMDeIx" group-title="Sky",Heimat Kanal DE
+http://mytv.fun:8080/live/NNN/WWW/6188.m3u8
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal [B] DE" tvg-logo="https://bit.ly/3bMDeIx" group-title="Sky",Heimat Kanal [B] DE
+http://mytv.fun:8080/live/NNN/WWW/678481.m3u8
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Sky Classica DE" tvg-logo="https://bit.ly/3qAyiuo" group-title="Sky",Classica DE
+http://mytv.fun:8080/live/NNN/WWW/6191.m3u8
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Classica HD DE" tvg-logo="https://bit.ly/3qAyiuo" group-title="Sky",Classica HD DE
+http://mytv.fun:8080/live/NNN/WWW/13167.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/2XWRKFl" group-title="Sky Select",[B][COLOR lime]===  Sky Select  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="https://bit.ly/3p8MSsZ" group-title="Sky Select",Sky Select 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/655131.m3u8
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="https://bit.ly/3p8MSsZ" group-title="Sky Select",Sky Select 1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/7375.m3u8
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 FHD DE" tvg-logo="https://bit.ly/2LJbzgX" group-title="Sky Select",Sky Select 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/655130.m3u8
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD DE" tvg-logo="https://bit.ly/2LJbzgX" group-title="Sky Select",Sky Select 2 HD DE
+http://mytv.fun:8080/live/NNN/WWW/7376.m3u8
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 FHD DE" tvg-logo="https://bit.ly/3nVqqC2" group-title="Sky Select",Sky Select 3 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/655129.m3u8
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD DE" tvg-logo="https://bit.ly/3nVqqC2" group-title="Sky Select",Sky Select 3 HD DE
+http://mytv.fun:8080/live/NNN/WWW/7377.m3u8
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 FHD DE" tvg-logo="https://bit.ly/3bRy7a6" group-title="Sky Select",Sky Select 4 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/655128.m3u8
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD DE" tvg-logo="https://bit.ly/3bRy7a6" group-title="Sky Select",Sky Select 4 HD DE
+http://mytv.fun:8080/live/NNN/WWW/7378.m3u8
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD DE" tvg-logo="https://bit.ly/3szyonZ" group-title="Sky Select",Sky Select 5 HD DE
+http://mytv.fun:8080/live/NNN/WWW/8977.m3u8
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD (demnächst) DE" tvg-logo="https://bit.ly/3szyonZ" group-title="Sky Select",Sky Select 5 HD (demnächst) DE
+http://mytv.fun:8080/live/NNN/WWW/655127.m3u8
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD DE" tvg-logo="https://bit.ly/3c2VgGL" group-title="Sky Select",Sky Select 6 HD DE
+http://mytv.fun:8080/live/NNN/WWW/8976.m3u8
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 FHD (demnächst) DE" tvg-logo="https://bit.ly/3c2VgGL" group-title="Sky Select",Sky Select 6 FHD (demnächst) DE
+http://mytv.fun:8080/live/NNN/WWW/655126.m3u8
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD DE" tvg-logo="https://bit.ly/35RneBn" group-title="Sky Select",Sky Select 7 HD DE
+http://mytv.fun:8080/live/NNN/WWW/8975.m3u8
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD DE" tvg-logo="https://bit.ly/35Rfi2U" group-title="Sky Select",Sky Select 8 HD DE
+http://mytv.fun:8080/live/NNN/WWW/8974.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4K DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 4K DE
+http://mytv.fun:8080/live/NNN/WWW/683524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema Boxset FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema INFO FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2 HD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 2 HD DE
+http://mytv.fun:8080/live/NNN/WWW/683525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 3 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 4K DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 4 4K DE
+http://mytv.fun:8080/live/NNN/WWW/683527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5 HD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 5 HD DE
+http://mytv.fun:8080/live/NNN/WWW/683528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 6 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 7 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 8 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 9 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 9 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 10 FHD DE" tvg-logo="https://bit.ly/3iWiUGj" group-title="Sky Select",HyperCinema 10 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683533.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Premiere FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Aktion FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Aktion FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Horror FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Thriller FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Sci-Fi FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Animation HD DE
+http://mytv.fun:8080/live/NNN/WWW/681939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie HD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Mythologie HD DE
+http://mytv.fun:8080/live/NNN/WWW/681945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Lächeln HD DE
+http://mytv.fun:8080/live/NNN/WWW/681944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Geschichte HD DE
+http://mytv.fun:8080/live/NNN/WWW/681941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sky Select",Eagle Cinema Romantisch FHD DE
+http://mytv.fun:8080/live/NNN/WWW/681948.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 1 DE
+http://mytv.fun:8080/live/NNN/WWW/23778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 FHD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 2 DE
+http://mytv.fun:8080/live/NNN/WWW/23777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 FHD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 3 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/683537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 3 DE
+http://mytv.fun:8080/live/NNN/WWW/23776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 4 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 4 DE
+http://mytv.fun:8080/live/NNN/WWW/23775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Sky Select",PopCorn Select 5 HD DE
+http://mytv.fun:8080/live/NNN/WWW/683540.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/3qwXgL8" group-title="Doku",[B][COLOR lime]===  Dokumentation  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info HD DE" tvg-logo="https://bit.ly/35SNhIi" group-title="Doku",ZDF Info HD DE
+http://mytv.fun:8080/live/NNN/WWW/9148.m3u8
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 Doku DE" tvg-logo="https://bit.ly/3oYXfzc" group-title="Doku",N24 Doku DE
+http://mytv.fun:8080/live/NNN/WWW/679837.m3u8
+#EXTINF:-1 tvg-id="kabel1doku.de" tvg-name="Kabel Eins Doku FHD DE" tvg-logo="https://bit.ly/3ipBgPr" group-title="Doku",Kabel Eins Doku FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13147.m3u8
+#EXTINF:-1 tvg-id="kabel1doku.de" tvg-name="Kabel 1 Doku DE" tvg-logo="https://bit.ly/3ipBgPr" group-title="Doku",Kabel 1 Doku DE
+http://mytv.fun:8080/live/NNN/WWW/679843.m3u8
+#EXTINF:-1 tvg-id="history.de" tvg-name="History Channel FHD DE" tvg-logo="https://bit.ly/35QBcU3" group-title="Doku",History Channel FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6244.m3u8
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://bit.ly/3qxgFvz" group-title="Doku",Spiegel Geschichte HD DE
+http://mytv.fun:8080/live/NNN/WWW/6174.m3u8
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen HD DE" tvg-logo="https://bit.ly/3bSa9eS" group-title="Doku",Spiegel TV Wissen HD DE
+http://mytv.fun:8080/live/NNN/WWW/9135.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery FHD DE" tvg-logo="https://bit.ly/3inQlkJ" group-title="Doku",Discovery FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13570.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery HD DE" tvg-logo="https://bit.ly/38W1Tss" group-title="Doku",Discovery HD DE
+http://mytv.fun:8080/live/NNN/WWW/5096.m3u8
+#EXTINF:-1 tvg-id="planet.de" tvg-name="Planet HD DE" tvg-logo="https://bit.ly/3bS2Qnw" group-title="Doku",Planet HD DE
+http://mytv.fun:8080/live/NNN/WWW/679846.m3u8
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet FHD DE" tvg-logo="https://bit.ly/2LA0v5T" group-title="Doku",Animal Planet FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8196.m3u8
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://bit.ly/2M6rQfB" group-title="Doku",Animal Planet HD DE
+http://mytv.fun:8080/live/NNN/WWW/13173.m3u8
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic HD DE" tvg-logo="https://bit.ly/2LNbhpf" group-title="Doku",National Geographic HD DE
+http://mytv.fun:8080/live/NNN/WWW/8194.m3u8
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic DE" tvg-logo="https://bit.ly/3sBTd1Z" group-title="Doku",National Geographic DE
+http://mytv.fun:8080/live/NNN/WWW/6226.m3u8
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo wild FHD DE" tvg-logo="https://bit.ly/39Pkplw" group-title="Doku",Nat Geo wild FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6227.m3u8
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD DE" tvg-logo="https://bit.ly/39Pkplw" group-title="Doku",Nat Geo Wild HD DE
+http://mytv.fun:8080/live/NNN/WWW/9136.m3u8
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild DE" tvg-logo="https://bit.ly/2LXY3Wy" group-title="Doku",Nat Geo Wild DE
+http://mytv.fun:8080/live/NNN/WWW/5085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD DE" tvg-logo="https://bit.ly/38ZiDPe" group-title="Doku",Welt der Wunder HD DE
+http://mytv.fun:8080/live/NNN/WWW/679838.m3u8
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://bit.ly/38ZiDPe" group-title="Doku",Welt der Wunder DE
+http://mytv.fun:8080/live/NNN/WWW/13129.m3u8
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe HD DE" tvg-logo="https://bit.ly/35TXe8h" group-title="Doku",Anixe HD DE
+http://mytv.fun:8080/live/NNN/WWW/6264.m3u8
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax FHD DE" tvg-logo="https://bit.ly/2LMjLx1" group-title="Doku",Dmax FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6249.m3u8
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HD DE" tvg-logo="https://bit.ly/38RInNA" group-title="Doku",TLC HD DE
+http://mytv.fun:8080/live/NNN/WWW/8224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV FHD DE" tvg-logo="https://bit.ly/2Nep8Fs" group-title="Doku",Luxe TV FHD DE
+http://mytv.fun:8080/live/NNN/WWW/676714.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte HD DE" tvg-logo="https://bit.ly/2Ng8sO2" group-title="Doku",Arte HD DE
+http://mytv.fun:8080/live/NNN/WWW/13172.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte DE" tvg-logo="https://bit.ly/3iwi9Dt" group-title="Doku",Arte DE
+http://mytv.fun:8080/live/NNN/WWW/6261.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte FHD DE" tvg-logo="https://bit.ly/2Ng8sO2" group-title="Doku",Arte FHD DE
+http://mytv.fun:8080/live/NNN/WWW/5091.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte HD DE" tvg-logo="https://bit.ly/3iwi9Dt" group-title="Doku",Arte HD DE
+http://mytv.fun:8080/live/NNN/WWW/9139.m3u8
+#EXTINF:-1 tvg-id="bongusto.de" tvg-name="Bon Gusto HD DE" tvg-logo="https://bit.ly/2KuUB5q" group-title="Doku",Bon Gusto HD DE
+http://mytv.fun:8080/live/NNN/WWW/683175.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="https://bit.ly/2LKcQ7t" group-title="Doku",E! Entertainment FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13569.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment HD DE" tvg-logo="https://bit.ly/2LKcQ7t" group-title="Doku",E! Entertainment HD DE
+http://mytv.fun:8080/live/NNN/WWW/9137.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment DE" tvg-logo="https://bit.ly/2LKcQ7t" group-title="Doku",E! Entertainment DE
+http://mytv.fun:8080/live/NNN/WWW/5095.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/3sJFAh9" group-title="Sports",[B][COLOR lime]===  Sports  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD DE" tvg-logo="" group-title="Sports",Sky Sport F1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/687666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD DE" tvg-logo="" group-title="Sports",Sky Sport F1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/687667.m3u8
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD DE" tvg-logo="https://bit.ly/3irv4Xl" group-title="Sports",Sky Sports News FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13555.m3u8
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD DE" tvg-logo="https://bit.ly/2XUIKAy" group-title="Sports",Sky Sports News HD DE
+http://mytv.fun:8080/live/NNN/WWW/6176.m3u8
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://bit.ly/3bTRXRU" group-title="Sports",Sky Sport 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13564.m3u8
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://bit.ly/2Ks7NYP" group-title="Sports",Sky Sport 1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/6184.m3u8
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://bit.ly/3bQCtOL" group-title="Sports",Sky Sport 1 DE
+http://mytv.fun:8080/live/NNN/WWW/9125.m3u8
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 [B] DE" tvg-logo="https://bit.ly/3bQCtOL" group-title="Sports",Sky Sport 1 [B] DE
+http://mytv.fun:8080/live/NNN/WWW/52533.m3u8
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://bit.ly/3bURNK3" group-title="Sports",Sky Sport 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/7362.m3u8
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://bit.ly/3bURNK3" group-title="Sports",Sky Sport 2 DE
+http://mytv.fun:8080/live/NNN/WWW/61835.m3u8
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="https://bit.ly/2XUMAts" group-title="Sports",Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13563.m3u8
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="https://bit.ly/2XUMAts" group-title="Sports",Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6182.m3u8
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://bit.ly/38WbaRi" group-title="Sports",Sky Sport 4 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13562.m3u8
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 HD DE" tvg-logo="https://bit.ly/38WbaRi" group-title="Sports",Sky Sport 4 HD DE
+http://mytv.fun:8080/live/NNN/WWW/9127.m3u8
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://bit.ly/39NgF3G" group-title="Sports",Sky Sport 5 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13561.m3u8
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="https://bit.ly/39NgF3G" group-title="Sports",Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/9126.m3u8
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="https://bit.ly/3nVyXos" group-title="Sports",Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6181.m3u8
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="https://bit.ly/2M6YFcE" group-title="Sports",Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6180.m3u8
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="https://bit.ly/3sK075B" group-title="Sports",Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6179.m3u8
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="https://bit.ly/38VYE3X" group-title="Sports",Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6178.m3u8
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="https://bit.ly/2XPzRsb" group-title="Sports",Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6177.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD DE" tvg-logo="https://bit.ly/38Tn2mY" group-title="Sports",Sky Sport Bundesliga 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620245.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="https://bit.ly/3irKLOf" group-title="Sports",Sky Sport Bundesliga 1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/13538.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="https://bit.ly/3irKLOf" group-title="Sports",Sky Sport Bundesliga 1 DE
+http://mytv.fun:8080/live/NNN/WWW/73136.m3u8
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 FHD DE" tvg-logo="https://bit.ly/2M6DNlt" group-title="Sports",Sky Sport Bundesliga 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/135258.m3u8
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD DE" tvg-logo="https://bit.ly/2M6DNlt" group-title="Sports",Sky Sport Bundesliga 2 HD DE
+http://mytv.fun:8080/live/NNN/WWW/62223.m3u8
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="https://bit.ly/2M3uhzw" group-title="Sports",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/135671.m3u8
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="https://bit.ly/2M3uhzw" group-title="Sports",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/62220.m3u8
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 FHD DE" tvg-logo="https://bit.ly/3oZ6m2V" group-title="Sports",Sky Sport Bundesliga 4 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/91235.m3u8
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="https://bit.ly/2LKLFt5" group-title="Sports",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/135335.m3u8
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="https://bit.ly/2LKLFt5" group-title="Sports",Sky Sport Bundesliga 5 DE
+http://mytv.fun:8080/live/NNN/WWW/62002.m3u8
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="https://bit.ly/3inBZ3T" group-title="Sports",Sky Sport Bundesliga 6 DE
+http://mytv.fun:8080/live/NNN/WWW/619225.m3u8
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 DE" tvg-logo="https://bit.ly/39H92vG" group-title="Sports",Sky Sport Bundesliga 7 DE
+http://mytv.fun:8080/live/NNN/WWW/6198.m3u8
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 FHD DE" tvg-logo="https://bit.ly/3iBrCJX" group-title="Sports",Sky Sport Bundesliga 8 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6197.m3u8
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="https://bit.ly/2XRJpmn" group-title="Sports",Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/6196.m3u8
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="https://bit.ly/38Tx5rZ" group-title="Sports",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6195.m3u8
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 FHD DE" tvg-logo="https://bit.ly/2XRVBDI" group-title="Sports",DAZN 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/661090.m3u8
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 HD DE" tvg-logo="https://bit.ly/2XRVBDI" group-title="Sports",DAZN 1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/625243.m3u8
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 [B] HD DE" tvg-logo="https://bit.ly/2XRVBDI" group-title="Sports",DAZN 1 [B] HD DE
+http://mytv.fun:8080/live/NNN/WWW/661088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://bit.ly/2NgzDbw" group-title="Sports",DAZN 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/661089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD DE" tvg-logo="https://bit.ly/2NgzDbw" group-title="Sports",DAZN 2 HD DE
+http://mytv.fun:8080/live/NNN/WWW/50775.m3u8
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 FHD DE" tvg-logo="https://bit.ly/3sMfU3M" group-title="Sports",Sport1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6173.m3u8
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1 HD  DE" tvg-logo="https://bit.ly/3sMfU3M" group-title="Sports",Sport1 HD  DE
+http://mytv.fun:8080/live/NNN/WWW/8221.m3u8
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD DE" tvg-logo="https://bit.ly/3sMfU3M" group-title="Sports",Sport1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/8226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ FHD DE" tvg-logo="https://bit.ly/3iqWI6J" group-title="Sports",Sport1+ FHD DE
+http://mytv.fun:8080/live/NNN/WWW/679847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ HD [B] DE" tvg-logo="https://bit.ly/3ixFcOo" group-title="Sports",Sport1+ HD [B] DE
+http://mytv.fun:8080/live/NNN/WWW/679848.m3u8
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="eSports1 [En] HD DE" tvg-logo="https://bit.ly/3ixWI56" group-title="Sports",eSports1 [En] HD DE
+http://mytv.fun:8080/live/NNN/WWW/6172.m3u8
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://bit.ly/3sxFz01" group-title="Sports",Eurosport 1 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8218.m3u8
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD DE" tvg-logo="https://bit.ly/3swQGGt" group-title="Sports",Eurosport 2 FHD DE
+http://mytv.fun:8080/live/NNN/WWW/9131.m3u8
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://bit.ly/3nUiK2L" group-title="Sports",Eurosport 2 Xtra FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13163.m3u8
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="https://bit.ly/3nUiK2L" group-title="Sports",Eurosport 2 Xtra HD DE
+http://mytv.fun:8080/live/NNN/WWW/9130.m3u8
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD DE" tvg-logo="https://bit.ly/3nSdPzn" group-title="Sports",Sport Digital FHD DE
+http://mytv.fun:8080/live/NNN/WWW/8244.m3u8
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD DE" tvg-logo="https://bit.ly/3nSdPzn" group-title="Sports",Sport Digital HD DE
+http://mytv.fun:8080/live/NNN/WWW/6171.m3u8
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision HD DE" tvg-logo="https://bit.ly/3qBrGf9" group-title="Sports",Motorvision HD DE
+http://mytv.fun:8080/live/NNN/WWW/8222.m3u8
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD DE" tvg-logo="https://bit.ly/3iskcbS" group-title="Sports",Auto Motor Sport FHD DE
+http://mytv.fun:8080/live/NNN/WWW/9132.m3u8
+#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-name="FC Bayern TV HD DE" tvg-logo="http://pici.life/bayerntv.png" group-title="Sports",FC Bayern TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/9128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 2 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 1 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 3 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 4 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 5 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 6 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="https://bit.ly/39In3cH" group-title="Sports",Telekom Fußball 7 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 1 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 2 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 3 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 4 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 1 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 2 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 3 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 4 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 5 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 5 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 6 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 6 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 7 [Match Time] FHD DE" tvg-logo="https://bit.ly/3sBmM3Q" group-title="Sports",Telekom Eishockey 7 [Match Time] FHD DE
+http://mytv.fun:8080/live/NNN/WWW/620804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="https://bit.ly/3svGjT8" group-title="Sports",Telekom Basketball 1 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="https://bit.ly/3svGjT8" group-title="Sports",Telekom Basketball 2 [Match Time] HD DE
+http://mytv.fun:8080/live/NNN/WWW/679675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 1 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 1 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 2 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 2 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 3 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 3 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 4 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 4 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 5 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 5 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 6 HD [Match Time] DE" tvg-logo="ext" group-title="Sports",DEL Sport 6 HD [Match Time] DE
+http://mytv.fun:8080/live/NNN/WWW/679856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 FHD AT" tvg-logo="ext" group-title="Sports",Sky Sport Austria 1 FHD AT
+http://mytv.fun:8080/live/NNN/WWW/5394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 2 FHD AT" tvg-logo="ext" group-title="Sports",Sky Sport Austria 2 FHD AT
+http://mytv.fun:8080/live/NNN/WWW/5393.m3u8
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Toros HD ES" tvg-logo="http://pici.life/ES/torostv.png" group-title="Sports",Toros HD ES
+http://mytv.fun:8080/live/NNN/WWW/13548.m3u8
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sport HD PT" tvg-logo="https://bit.ly/3qu5gfY" group-title="Sports",Kombat Sport HD PT
+http://mytv.fun:8080/live/NNN/WWW/682981.m3u8
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="FightBox FHD PL" tvg-logo="ext" group-title="Sports",FightBox FHD PL
+http://mytv.fun:8080/live/NNN/WWW/5412.m3u8
+#EXTINF:-1 tvg-id="fightchannel.hr" tvg-name="Fight Channel HR" tvg-logo="ext" group-title="Sports",Fight Channel HR
+http://mytv.fun:8080/live/NNN/WWW/12383.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/3qEG8mU" group-title="News",[B][COLOR lime]===  News  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews DE" tvg-logo="https://bit.ly/3p9zK6w" group-title="News",Euronews DE
+http://mytv.fun:8080/live/NNN/WWW/6248.m3u8
+#EXTINF:-1 tvg-id="welt.de" tvg-name="Welt HD DE" tvg-logo="https://bit.ly/2M4amR2" group-title="News",Welt HD DE
+http://mytv.fun:8080/live/NNN/WWW/6228.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD DE" tvg-logo="https://bit.ly/3p17V0u" group-title="News",N-TV FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13149.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV HD DE" tvg-logo="https://bit.ly/3p17V0u" group-title="News",N-TV HD DE
+http://mytv.fun:8080/live/NNN/WWW/8195.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV DE" tvg-logo="https://bit.ly/2LNCKqO" group-title="News",N-TV DE
+http://mytv.fun:8080/live/NNN/WWW/13566.m3u8
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="Munchen TV DE" tvg-logo="http://pici.life/munchentv.png" group-title="News",Munchen TV DE
+http://mytv.fun:8080/live/NNN/WWW/6229.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="https://bit.ly/39YZyMH" group-title="News",Phoenix HD DE
+http://mytv.fun:8080/live/NNN/WWW/6221.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 HD DE" tvg-logo="https://bit.ly/3nUxQFK" group-title="News",Tagesschau 24 HD DE
+http://mytv.fun:8080/live/NNN/WWW/6163.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://bit.ly/3o4pKu9" group-title="Kids",[B][COLOR lime]===  Kids  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika HD DE" tvg-logo="http://pici.life/kikahd.png" group-title="Kids",Kika HD DE
+http://mytv.fun:8080/live/NNN/WWW/6241.m3u8
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KiKa DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Kids",KiKa DE
+http://mytv.fun:8080/live/NNN/WWW/679839.m3u8
+#EXTINF:-1 tvg-id="babytv.de" tvg-name="Baby TV DE" tvg-logo="http://pici.life/DE/baby_tv_eu.png" group-title="Kids",Baby TV DE
+http://mytv.fun:8080/live/NNN/WWW/13169.m3u8
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus HD DE" tvg-logo="http://pici.life/DE/toggoplus.png" group-title="Kids",Toggo Plus HD DE
+http://mytv.fun:8080/live/NNN/WWW/5086.m3u8
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus DE" tvg-logo="http://pici.life/toggoplus.png" group-title="Kids",Toggo Plus DE
+http://mytv.fun:8080/live/NNN/WWW/9133.m3u8
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang HD DE" tvg-logo="http://pici.life/boomerang_2.png" group-title="Kids",Boomerang HD DE
+http://mytv.fun:8080/live/NNN/WWW/6258.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network FHD DE" tvg-logo="http://pici.life/cartoonnethd.png" group-title="Kids",Cartoon Network FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6257.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="Kids",Disney Channel FHD DE
+http://mytv.fun:8080/live/NNN/WWW/6253.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior FHD DE" tvg-logo="http://pici.life/DE/disneyjnrhd.png" group-title="Kids",Disney Junior FHD DE
+http://mytv.fun:8080/live/NNN/WWW/13568.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior HD DE" tvg-logo="http://pici.life/disneyjunior_2.png" group-title="Kids",Disney Junior HD DE
+http://mytv.fun:8080/live/NNN/WWW/6251.m3u8
+#EXTINF:-1 tvg-id="junior.de" tvg-name="Junior DE" tvg-logo="http://pici.life/juniortv.png" group-title="Kids",Junior DE
+http://mytv.fun:8080/live/NNN/WWW/6239.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://pici.life/nickelodeon_2.png" group-title="Kids",Nickelodeon HD DE
+http://mytv.fun:8080/live/NNN/WWW/6224.m3u8
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi DE" tvg-logo="http://pici.life/DE/FIXandFOXI.de.png" group-title="Kids",Fix & Foxi DE
+http://mytv.fun:8080/live/NNN/WWW/23771.m3u8
+#EXTINF:-1 tvg-id="tomandjerry.de" tvg-name="Kids Tom&Jerry DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="Kids",Kids Tom&Jerry DE
+http://mytv.fun:8080/live/NNN/WWW/679840.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://i.imgur.com/5LelUfo.jpg" group-title="DE Music",[B][COLOR lime]===  DE Music  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV FHD DE" tvg-logo="http://pici.life/DE/mtvhd.png" group-title="DE Music",MTV FHD DE
+http://mytv.fun:8080/live/NNN/WWW/35466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV +1 HD DE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-germany-plus-1-us-de.png" group-title="DE Music",MTV +1 HD DE
+http://mytv.fun:8080/live/NNN/WWW/679793.m3u8
+#EXTINF:-1 tvg-id="mtvbrandnew.de" tvg-name="MTV Brand New DE" tvg-logo="http://pici.life/DE/mtvbrandnew.png" group-title="DE Music",MTV Brand New DE
+http://mytv.fun:8080/live/NNN/WWW/638079.m3u8
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="VH1 Classic DE" tvg-logo="http://pici.life/DE/VH1Classic.de.png" group-title="DE Music",VH1 Classic DE
+http://mytv.fun:8080/live/NNN/WWW/638080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deep House Radio FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="DE Music",Deep House Radio FHD DE
+http://mytv.fun:8080/live/NNN/WWW/679832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Urban Radio FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="DE Music",Urban Radio FHD DE
+http://mytv.fun:8080/live/NNN/WWW/679833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Radio FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="DE Music",Classic Radio FHD DE
+http://mytv.fun:8080/live/NNN/WWW/679834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trap Radio FHD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="DE Music",Trap Radio FHD DE
+http://mytv.fun:8080/live/NNN/WWW/679835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rainy Jazz Radio HD DE" tvg-logo="https://bit.ly/3qu5gfY" group-title="DE Music",Rainy Jazz Radio HD DE
+http://mytv.fun:8080/live/NNN/WWW/679831.m3u8
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox DE" tvg-logo="http://pici.life/DE/jukebox.png" group-title="DE Music",Jukebox DE
+http://mytv.fun:8080/live/NNN/WWW/13148.m3u8
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music HD DE" tvg-logo="http://pici.life/deluxemusic.png" group-title="DE Music",DELuxe Music HD DE
+http://mytv.fun:8080/live/NNN/WWW/6255.m3u8
+#EXTINF:-1 tvg-id="kronehit.de" tvg-name="Kronehit FHD DE" tvg-logo="http://pici.life/DE/KronHit.jpg" group-title="DE Music",Kronehit FHD DE
+http://mytv.fun:8080/live/NNN/WWW/14200.m3u8
+#EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://pici.life/DE/deutschesmusikfernsehen.png" group-title="DE Music",Deutsches Musik Fernsehen DE
+http://mytv.fun:8080/live/NNN/WWW/13165.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://i.imgur.com/5LelUfo.jpg" group-title="UK Music",[B][COLOR lime]===  UK Music  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="Clubland TV VIP UK" tvg-logo="http://pici.life/UK/ClublandTVUK.jpg" group-title="UK Music",Clubland TV VIP UK
+http://mytv.fun:8080/live/NNN/WWW/15769.m3u8
+#EXTINF:-1 tvg-id="now70s.uk" tvg-name="Now 70s VIP UK" tvg-logo="ext" group-title="UK Music",Now 70s VIP UK
+http://mytv.fun:8080/live/NNN/WWW/685773.m3u8
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="Now 80s VIP UK" tvg-logo="ext" group-title="UK Music",Now 80s VIP UK
+http://mytv.fun:8080/live/NNN/WWW/685774.m3u8
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4Music UK" tvg-logo="http://pici.life/UK/4-Music-UK.png" group-title="UK Music",4Music UK
+http://mytv.fun:8080/live/NNN/WWW/15698.m3u8
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV FHD VIP UK" tvg-logo="http://pici.life/UK/mtv.png" group-title="UK Music",MTV FHD VIP UK
+http://mytv.fun:8080/live/NNN/WWW/683775.m3u8
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="MTV Music VIP UK" tvg-logo="http://pici.life/UK/mtvmusic.png" group-title="UK Music",MTV Music VIP UK
+http://mytv.fun:8080/live/NNN/WWW/683776.m3u8
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="MTV Live FHD VIP UK" tvg-logo="http://pici.life/UK/mtvlivehd.png" group-title="UK Music",MTV Live FHD VIP UK
+http://mytv.fun:8080/live/NNN/WWW/671334.m3u8
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="MTV Live HD VIP UK" tvg-logo="http://pici.life/UK/mtvlivehd.png" group-title="UK Music",MTV Live HD VIP UK
+http://mytv.fun:8080/live/NNN/WWW/9540.m3u8
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="MTV Hits VIP UK" tvg-logo="http://pici.life/UK/mtvlivehd.png" group-title="UK Music",MTV Hits VIP UK
+http://mytv.fun:8080/live/NNN/WWW/683777.m3u8
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="MTV Base HD VIP UK" tvg-logo="http://pici.life/UK/mtvbase.png" group-title="UK Music",MTV Base HD VIP UK
+http://mytv.fun:8080/live/NNN/WWW/15818.m3u8
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="MTV Base VIP UK" tvg-logo="http://pici.life/UK/mtvbase.png" group-title="UK Music",MTV Base VIP UK
+http://mytv.fun:8080/live/NNN/WWW/9537.m3u8
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="MTV Classic VIP UK" tvg-logo="http://pici.life/UK/mtvclassic.png" group-title="UK Music",MTV Classic VIP UK
+http://mytv.fun:8080/live/NNN/WWW/683898.m3u8
+#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="MTV 90s UK" tvg-logo="http://pici.life/UK/mtvrocks.png" group-title="UK Music",MTV 90s UK
+http://mytv.fun:8080/live/NNN/WWW/15845.m3u8
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="MTV 80s UK" tvg-logo="http://pici.life/UK/VH1_Classic.png" group-title="UK Music",MTV 80s UK
+http://mytv.fun:8080/live/NNN/WWW/9509.m3u8
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="MTV 80s Classic UK" tvg-logo="http://pici.life/UK/mtv.png" group-title="UK Music",MTV 80s Classic UK
+http://mytv.fun:8080/live/NNN/WWW/683778.m3u8
+#EXTINF:-1 tvg-id="smashhits.uk" tvg-name="Box Hits UK" tvg-logo="http://pici.life/UK/Box-Hits-UK.jpg" group-title="UK Music",Box Hits UK
+http://mytv.fun:8080/live/NNN/WWW/15785.m3u8
+#EXTINF:-1 tvg-id="capitaltv.uk" tvg-name="Capital TV UK" tvg-logo="http://pici.life/UK/capitaltv.png" group-title="UK Music",Capital TV UK
+http://mytv.fun:8080/live/NNN/WWW/11459.m3u8
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="Kerrang TV UK" tvg-logo="http://pici.life/UK/kerrang.png" group-title="UK Music",Kerrang TV UK
+http://mytv.fun:8080/live/NNN/WWW/15827.m3u8
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="Kiss UK" tvg-logo="http://pici.life/UK/kiss.png" group-title="UK Music",Kiss UK
+http://mytv.fun:8080/live/NNN/WWW/15826.m3u8
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="Magic UK" tvg-logo="http://pici.life/magictv.png" group-title="UK Music",Magic UK
+http://mytv.fun:8080/live/NNN/WWW/15824.m3u8
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="The Box UK" tvg-logo="http://pici.life/boxtv.png" group-title="UK Music",The Box UK
+http://mytv.fun:8080/live/NNN/WWW/15880.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-logo="https://i.imgur.com/5LelUfo.jpg" group-title="US Music",[B][COLOR lime]===  US Music  ===[/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="MTVU HD VIP US" tvg-logo="ext" group-title="US Music",MTVU HD VIP US
+http://mytv.fun:8080/live/NNN/WWW/684706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 2 [East] HD VIP US" tvg-logo="ext" group-title="US Music",MTV 2 [East] HD VIP US
+http://mytv.fun:8080/live/NNN/WWW/684708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 2 [West] HD VIP US" tvg-logo="ext" group-title="US Music",MTV 2 [West] HD VIP US
+http://mytv.fun:8080/live/NNN/WWW/684707.m3u8
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MTV Live FHD VIP US" tvg-logo="https://bit.ly/3qu5gfY" group-title="US Music",MTV Live FHD VIP US
+http://mytv.fun:8080/live/NNN/WWW/683372.m3u8
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MTV Live HD VIP US" tvg-logo="ext" group-title="US Music",MTV Live HD VIP US
+http://mytv.fun:8080/live/NNN/WWW/684752.m3u8
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic VIP US" tvg-logo="http://pici.life/UK/mtvclassic.png" group-title="US Music",MTV Classic VIP US
+http://mytv.fun:8080/live/NNN/WWW/683899.m3u8
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="Revolt FHD VIP US" tvg-logo="ext" group-title="US Music",Revolt FHD VIP US
+http://mytv.fun:8080/live/NNN/WWW/659781.m3u8
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET Soul US" tvg-logo="ext" group-title="US Music",BET Soul US
+http://mytv.fun:8080/live/NNN/WWW/661091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice 90s VIP US" tvg-logo="ext" group-title="US Music",Music Choice 90s VIP US
+http://mytv.fun:8080/live/NNN/WWW/683902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Alternative VIP US" tvg-logo="ext" group-title="US Music",Music Alternative VIP US
+http://mytv.fun:8080/live/NNN/WWW/683903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Brit Hits VIP US" tvg-logo="ext" group-title="US Music",Music Choice Brit Hits VIP US
+http://mytv.fun:8080/live/NNN/WWW/683904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Dance/EDM VIP US" tvg-logo="ext" group-title="US Music",Music Choice Dance/EDM VIP US
+http://mytv.fun:8080/live/NNN/WWW/683905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Hip-Hop & R&B VIP US" tvg-logo="ext" group-title="US Music",Music Choice Hip-Hop & R&B VIP US
+http://mytv.fun:8080/live/NNN/WWW/683906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice R&B Soul VIP US" tvg-logo="ext" group-title="US Music",Music Choice R&B Soul VIP US
+http://mytv.fun:8080/live/NNN/WWW/683909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Pop Hits VIP US" tvg-logo="ext" group-title="US Music",Music Choice Pop Hits VIP US
+http://mytv.fun:8080/live/NNN/WWW/683907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Rock VIP US" tvg-logo="ext" group-title="US Music",Music Choice Rock VIP US
+http://mytv.fun:8080/live/NNN/WWW/683911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Teen Beats VIP US" tvg-logo="ext" group-title="US Music",Music Choice Teen Beats VIP US
+http://mytv.fun:8080/live/NNN/WWW/683913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Y2K VIP US" tvg-logo="ext" group-title="US Music",Music Choice Y2K VIP US
+http://mytv.fun:8080/live/NNN/WWW/683914.m3u8
+http://mytv.fun:8080/NNN/WWW/683914
+

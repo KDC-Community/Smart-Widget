@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Help</playlist_name>
+
+<channel>
+<title>Der Hauptzweck des Widgets</title>
+<playlist_url>stop</playlist_url>
+<description><![CDATA[<table><font color="#00ccff">Stream Medial Deutschland</font><br>ist ein kostenloses Widget</table><table> für Samsung Smart-TV Geräte mit Orsay OS.<br>Von der D-Serie bis H-Serie.<br>Non Tizen OS!</table><table> Die Hauptaufgabe ist es <font color="#00ccff">IPTV</font> </table><table> und <font color="#00ccff">WebTV Inhalte / Playlisten</font> sowie die Wiedergabe von Mediendateien über </table><table> eine Internet-Verbindung und / oder von einem <font color="#00ccff">USB</font> Stick / Laufwerk zu realisieren.</table><table> Das Widget basiert auf Lstreamlmod.<br>Das Widget wurde in die Deutsche Sprache übersetzt und überarbeitet.<br>Credits: </table><table>Esc "<font color="#00ccff">TOXYNTH</font>".</table>]]></description>
+</channel>
+<channel>
+<title>Grundlegende Bedienung</title>
+<playlist_url>stop</playlist_url>
+<description><![CDATA[<table>Man kann auch eigene Inhalte hinzufügen, entweder von USB / Festplatte / WWW, oder man fügt eine eigene "start.xml" hinzu.<br>Ebenso kann man die MAC-Adresse ändern oder Widgets vom USB-Stick auf das TV-Gerät installieren.</table><table><br>Um in das Einstellungsmenü zu kommen, drückt man die Taste "<font color="#00ccff">TOOLS</font>" auf der Fernbedienung.</table><table>Mit der Taste "<font color="#00ccff">MENÜ</font>" auf der Fernbedienung, kann man Bild- und Toneinstellungen vornehmen sowie den Cache bereinigen.</table><table>Mit der Taste "<font color="#00ccff">INFO</font>" auf der Fernbedienung, kann man Infotexte besser anzeigen und lesen.</table><table>Mit der Taste "<font color="#00ccff">CHLIST</font>" unter der Mute Taste auf der Fernbedienung, kommt man schnell wieder in das Hauptmenü zurück.</table><table><br></table>]]></description>>
+</channel>
+<channel>
+	<title>Beschreibung der Tastenfunktionen</title>
+	<playlist_url>XML/1help.xml</playlist_url>
+	<description><![CDATA[<table>Es gibt drei Hauptspielmodi :</table><table> 1) "<font color="#00ccff">Menü Playlist</font>"</table><table> 2) "<font color="#00ccff">Anzeigen der Streams</font>"</table><table> 3) "<font color="#00ccff">Abspielen der Mediadaten</font>"</table><table>Die Funktionstasten entsprechen der Standart TV - Fernbedienung.</table><table> Einige Tasten können jedoch je nach Situation variieren!</table><table> Um eine detaillierte Beschreibung der Funktionen anzuzeigen, drücken Sie jetzt </table><table><td><img src="img/buttons/enter.png" /></td><td>"<font color="#00ccff">ENTER - Bestätigen</font>" </td></table> auf Ihrer Fernbedienung!</table>]]></description>	
+</channel>
+<channel>
+<title>Unterstützte Streams</title>
+<playlist_url>stop</playlist_url>
+<description><![CDATA[<table> <font color="#00ccff">Stream Medial Deutschland<br></font> unterstützt die Wiedergabe </table><table>folgender Arten von Streams: <br><font color="#00ccff">"http"</font></table><table><font color="#00ccff"> "rtmp"<br> "udp"<br> "mms"<br> "rtsp"<br> "hls"<br> "ts"<br> "m3u"<br> "m3u8"<br>"flash"</font></table>]]></description>
+</channel>
+<channel>
+<title>Unterstützte Dateitypen</title>
+<playlist_url>stop</playlist_url>
+<description><![CDATA[<table><font color="#00ccff">Stream Medial Deutschland<br></font> unterstützt die Wiedergabe sämtlicher Mediendateien, </table><table> welche laut Datenblatt </table><table> von Ihrem Samsung Smart TV unterstützt werden. </table>]]>
+</description>
+</channel>
+<channel>
+	<title>Ersatz MAC-Adresse für Ihr TV-</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table> Um die MAC-Adresseinstellungen zu ändern - Die Taste "TOOLS" auf der Fernbedienung drücken.<br>Beim ersten Start wird der tatsächlichen Wert angezeigt. Danach wird empfohlen, irgendwelche letzten nur 6 Zeichen zu ändern <br>(ersten 6 kennzeichnet den Hersteller, wenn Sie sie beliebig verändern, werden einige Dienste Ihren TV-MAC-Emulator erkennen, oder nicht funktionieren! - Man denke hier beispielsweise an eine Stalker Playliste mit MAC-Adresse !)<br>Geben Sie einen realen Wert ein - oder geben Sie einen anderen Wert ein,<br><hr> um die Erfassung statistischer Daten Ihres TV-Gerätes zu umgehen.<br>Ist auch für andere Zwecke nützlich. (: <table><td></td>]]></description>
+</channel>
+
+</items>

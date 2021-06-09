@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Ctrl_Esc_Samsung-TV-Widget</playlist_name>
+<category>
+	<category_id>1</category_id>
+	<category_title>M3U Listen</category_title>
+</category>
+<category>
+	<category_id>2</category_id>
+	<category_title>M3u8 Listen</category_title>
+</category>	
+<category>
+	<category_id>3</category_id>
+	<category_title>TS Listen</category_title>
+</category>
+<category>
+	<category_id>4</category_id>
+	<category_title>Video On Demand</category_title>
+</category>
+<channel>
+	<title>MyTV Fun TV Liste</title>
+	<playlist_url>ext</playlist_url>
+	<description>Samsung TV Widget MyTV Fun TV Liste. Username und Passwort müssen eingetragen werden.</description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>MyTV Fun Serien Liste</title>
+	<playlist_url>ext</playlist_url>
+	<description>Samsung TV Widget MyTV Fun Serien Liste. Username und Passwort müssen eingetragen werden.</description>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>MyTV Fun VOD Liste</title>
+	<playlist_url>ext</playlist_url>
+	<description>Samsung TV Widget MyTV Fun VOD Liste. Username und Passwort müssen eingetragen werden.</description>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>VOD Liste</title>
+	<playlist_url>https://bit.ly/3bdTzoW</playlist_url>
+	<description>Samsung TV Widget VOD DE Tedeschi</description>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>XXX Liste</title>
+	<playlist_url>http://samigiptv.ucoz.net/PornVid1Releas.m3u</playlist_url>
+	<description>Samsung TV Widget XXX Liste</description>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>Music</title>
+	<playlist_url>http://tox303.bplaced.net/lmod/wl</playlist_url>
+	<description>Samsung TV Widget Audio / Video Liste</description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Swift</title>
+	<playlist_url>https://cutt.ly/wlkbJpt</playlist_url>
+	<description>Samsung TV Widget Swift Liste</description>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Stalker Web Liste</title>
+	<playlist_url>ext</playlist_url>
+	<description>Samsung TV Widget Stalker Web Liste. IP und Port sowie MAC - Adresse in den Einstellungen eintragen.</description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>detest XML</title>
+	<playlist_url>http://wilhelm2005.strana.de/deutsch.xml</playlist_url>
+	<description>Samsung TV Widget detest xml Liste</description>
+	<category_id>1</category_id>
+</channel>
+</items>
+
+

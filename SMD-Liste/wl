@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1,Trance is Star
+http://tis.catcast.tv/content/391/index.m3u8
+
+#EXTINF:-1,Metal TV
+http://autopilot.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1,Eurodance 90
+http://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1,Retro Dance 90s
+https://live.prd.dlive.tv/hls/live/andyx7.m3u8
+
+#EXTINF:-1,RTL 102.5 TV
+http://rtl-video1-stream.thron.com/live-video/video1/video1/playlist_1.m3u8
+
+#EXTINF:-1,Radio Bruno TV
+http://stream6.xdevel.com/video0s975758-578/stream/playlist.m3u8
+
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+#EXTINF:-1,OTV Music
+http://212.26.146.148/hls/otv.m3u8
+
+#EXTINF:-1,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Music History TV
+https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
+
+#EXTINF:-1,Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1,Hit TV
+https://sc.id-tv.kz/HitTV_34_35.m3u8
+
+#EXTINF:-1,Музыка 1 International
+http://autopilot.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1,Музыка 2 International
+http://autopilot.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1,Музыка Кино International
+http://autopilot.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1,Музыка Первого
+http://178.162.205.85:8081/andr/muzika.stream/playlist.m3u8
+
+#EXTINF:-1,Extreme Sports
+http://94.230.240.12:8080/extremesport/index.m3u8
+
+#EXTINF:-1,COMBATE FULLHD
+http://190.2.153.204:25461/rosane19/r23s20/1875
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<playlist_name>Wetter / Weather</playlist_name>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Hamburg Tag</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1740px; background-color:#FFFFFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/hamburg/20095/daily-weather-forecast/178556?day=1"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Hamburg Woche</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1395px; background-color:#80CDFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/hamburg/20095/daily-weather-forecast/178556"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Münster Tag</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1740px; background-color:#FFFFFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/m%C3%BCnster/48143/daily-weather-forecast/170376?day=1"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Münster Woche</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1395px; background-color:#80CDFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/m%C3%BCnster/48143/daily-weather-forecast/170376"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Sylt Tag</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1740px; background-color:#FFFFFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/sylt/25980/daily-weather-forecast/1603440?day=1"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Sylt Woche</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1395px; background-color:#80CDFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/sylt/25980/daily-weather-forecast/1603440"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Zandvoort Tag</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1740px; background-color:#FFFFFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/nl/zandvoort/249549/daily-weather-forecast/249549?day=1"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Zandvoort Woche</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1395px; background-color:#80CDFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/nl/zandvoort/249549/daily-weather-forecast/249549"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Berlin Tag</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1740px; background-color:#FFFFFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/berlin/10178/daily-weather-forecast/178087?day=1"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+<channel>
+        <title><![CDATA[<font color="ff7f24">WETTER Berlin Woche</font>]]></title>
+        <logo_30x30>logos/weather.png</logo_30x30>
+	<description><![CDATA[<iframe style="margin-top:-100px;margin-left:0px; width:410px; height:1395px; background-color:#80CDFF; border:solid 5px #EEEEEE" src="https://www.accuweather.com/de/de/berlin/10178/daily-weather-forecast/178087"></iframe>]]></description>
+	<playlist_url><![CDATA[stop]]></playlist_url>
+</channel>
+</items>
