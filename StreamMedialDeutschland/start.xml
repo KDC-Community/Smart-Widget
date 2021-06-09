@@ -4,7 +4,7 @@
 <channel>
 	<title><![CDATA[<font color='#00dd00'>Ctrl_Esc_Portal</font>]]></title>
 	<logo_30x30>logos/Esc.jpg</logo_30x30>
-	<playlist_url>https://github.com/KDC-Community/Smart-Widget/blob/main/SMD-Liste/sam.xml</playlist_url>
+	<playlist_url>http://raw.githubusercontent.com/KDC-Community/Smart-Widget/master/SMD-Liste/sam.xml</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/5LelUfo.jpg" height="128" width="128"></img></td><td><h2>Ctrl Esc Portal</h2>Deutsche Playlisten.<br>TV, VOD, SPORT, XXX</td></tr></table>]]></description>
 </channel>
 <channel>
