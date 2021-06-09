@@ -19,19 +19,19 @@
 </category>
 <channel>
 	<title>MyTV Fun TV Liste</title>
-	<playlist_url>ext</playlist_url>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/main/SMD-Liste/mf?token=AN2UNO3MLUGEF62YE6YEONTAYFGB6</playlist_url>
 	<description>Samsung TV Widget MyTV Fun TV Liste. Username und Passwort müssen eingetragen werden.</description>
 	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>MyTV Fun Serien Liste</title>
-	<playlist_url>ext</playlist_url>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/main/SMD-Liste/mfs?token=AN2UNO27PNQUDV3FPEKVP7LAYFGJO</playlist_url>
 	<description>Samsung TV Widget MyTV Fun Serien Liste. Username und Passwort müssen eingetragen werden.</description>
 	<category_id>4</category_id>
 </channel>
 <channel>
 	<title>MyTV Fun VOD Liste</title>
-	<playlist_url>ext</playlist_url>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/main/SMD-Liste/mfm?token=AN2UNO7CYQGOYRG6LIGTTQLAYFGNQ</playlist_url>
 	<description>Samsung TV Widget MyTV Fun VOD Liste. Username und Passwort müssen eingetragen werden.</description>
 	<category_id>4</category_id>
 </channel>
@@ -49,7 +49,7 @@
 </channel>
 <channel>
 	<title>Music</title>
-	<playlist_url>http://tox303.bplaced.net/lmod/wl</playlist_url>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/main/SMD-Liste/wl?token=AN2UNO4CBAUBRFSEAKRU2XTAYFGRM</playlist_url>
 	<description>Samsung TV Widget Audio / Video Liste</description>
 	<category_id>1</category_id>
 </channel>
