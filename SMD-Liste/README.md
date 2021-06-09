@@ -6,6 +6,7 @@
 
 #Die Listen sollte man auf einem Webspace uploaden (bplaced oder github) und die "sam.xml" dementsprechend bearbeiten / anpassen (URL-Daten hinzufügen / bearbeiten.)
 #und auch auf'm Webspace uploaden.
+#zudem sollte man die "start.xml" bzgl. der Links anpassen, welche zur "sam.xml" führen...
 
 #Die "sam.xml" kann auch als "sam.php" , oder "sam.m3u" , etc. hinzugefügt werden.
 
