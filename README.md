@@ -25,8 +25,10 @@ Somit wäre es auf dem TV und viel schneller. Da mein TV gerootet ist, habe ich 
 Wenn man jedoch einen gerooteten TV hat (SamyGO), dann sollte man sich das Widget per FTP oder Telnet, in den Ordner: /mtd_unirw/rwcommon/widgets/user schieben.
 Somit ist das Widget ultraschnell in der Ausführung und die Umschaltzeiten sind ein Traum!
 
-Möchte man zudem eine eigene Wiedergabeliste hinzufügen? 
-Kein Problem! 
+Möchte man zudem eine eigene Wiedergabeliste hinzufügen?
+
+Kein Problem!
+
 Dann muss die Playliste in den Main Ordner des USB Sticks und umbenannt werden, in "My.m3u" oder "My.xml".
 Dann im Widget das USB Symbol anwählen und entsprechende Wiedergabeliste starten.
 
