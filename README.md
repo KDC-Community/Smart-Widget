@@ -6,7 +6,7 @@
 
 Mit diesem Widget kann man Wiedergabelisten abspielen.
 
-Einen IP Proxy einstellen (IP und Port), MAC Adresse beliebig ändern, wie im Stalker Player.
+Einen IP Proxy einstellen (IP und Port), MAC Adresse beliebig ändern, wie im Stalker Middleware Player.
 
 Unterstützte Dateitypen: "http" , "https" , "rtmp" , "udp" , "mms" , "rtsp" , "hls" , "ts" , "m3u" , "m3u8" , "flash"
 
