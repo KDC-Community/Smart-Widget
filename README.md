@@ -11,7 +11,9 @@ Einen IP Proxy einstellen (IP und Port), MAC Adresse beliebig ändern, wie im St
 Unterstützte Dateitypen:
 
 Video=.avi|asf|3gp|3g2|3gp2|3gpp|flv|mp4|mp4v|m4v|m2v|m2ts|m2t|mp2v|mov|mpg|mpe|mpeg|mkv|swf|mts|wm|wmv|vob|vro|f4v|ts|tts
+
 Audio=.mp3|mp4a|dts|ac3|wav|wma|flac
+
 Foto=.png|gif|jpg|jpeg|bmp|ico|tiff|mpo|raw
 
  "http" , "https" , "rtmp" , "udp" , "mms" , "rtsp" , "hls" , "ts" , "m3u" , "m3u8" , "flash"
