@@ -45,6 +45,11 @@ Diesen Pfad /dtv/usb/sda1/sam.xml sollte man dann zudem in der start.xml eintrag
 In der sam.xml dann eigene Adressen eintragen!
 
 Somit kann man zwar bequem Inhalte / Wiedergabelisten am PC bearbeiten und dann den USB Stick wieder in den TV "stopfen",
-jedoch ist der Zweck dieses Widget, dass viele "IHRE EIGENEN" Playlisten / Portale und Inhalte, mit der Community teilen / geteilt werden!!!
+
+jedoch ist der Zweck dieses Widget, 
+
+dass viele "IHRE EIGENEN" Playlisten / Portale und Inhalte erstellen und mit der Community teilen und so, unter "Andere Portale" geteilt werden können!!!
+
+
 
 Viel Spass beim Umschalten! :-)
