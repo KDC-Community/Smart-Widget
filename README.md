@@ -2,6 +2,8 @@
 # D - H Serie. Orsay OS only!
 # No Tizen OS!
 #
+![Stream Medial Deutschland](icon.png)
+
 Um dieses Addon zu installieren, benötigt man einen USB Stick, oder einen gerooteten TV mit SamyGo.
 Fat32 sollte der USB Stick formatiert werden. 
 Im main Ordner des USB Sticks befindet sich ein entzippter Ordner mit Namen "InstallStreamMedialDeutschland"
