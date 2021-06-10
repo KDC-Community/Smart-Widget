@@ -49,7 +49,7 @@
 </channel>
 <channel>
 	<title>Music</title>
-	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/main/SMD-Liste/wl?token=AN2UNO4CBAUBRFSEAKRU2XTAYFGRM</playlist_url>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/master/SMD-Liste/wl</playlist_url>
 	<description>Samsung TV Widget Audio / Video Liste</description>
 	<category_id>1</category_id>
 </channel>
