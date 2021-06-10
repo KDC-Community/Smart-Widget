@@ -29,7 +29,10 @@ Möchte man zudem eine eigene Wiedergabeliste hinzufügen?
 
 Kein Problem!
 
-Dann muss die Playliste in den Main Ordner des USB Sticks und umbenannt werden, in "My.m3u" oder "My.xml".
+Dann muss die Playliste in den Main Ordner des USB Sticks und umbenannt werden,
+
+in "My.m3u" oder "My.xml".
+
 Dann im Widget das USB Symbol anwählen und entsprechende Wiedergabeliste starten.
 
 
