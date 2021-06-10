@@ -19,21 +19,26 @@ USB Stick in den TV stecken und das Widget über den Smart-Hub / Apps starten.
 Der TV sollte bei jedem Wechsel des USB Sticks, ausgeschaltet sein!!!
 
 Alternativ kann man das Widget nun auch unter dem USB Symbol, dann auf Scanner USB klicken, versuchen zu installieren.
-Somit wäre es auf dem TV und viel schneller. Da mein TV gerootet ist, habe ich diese Methode der Widgetistallation nicht getestet!
+Somit wäre es auf dem TV und viel schneller. Da mein TV gerootet ist, habe ich diese Methode der Widgetistallation nicht getestet, sollte aber funktionieren!
 
 Wenn man jedoch einen gerooteten TV hat (SamyGO), dann sollte man sich das Widget per FTP oder Telnet, in den Ordner: /mtd_unirw/rwcommon/widgets/user schieben.
-Somit ist das Widget sehr viel schneller in der Ausführung.  :-)
-Die Umschaltzeiten sind ein Traum!
+Somit ist das Widget ultraschnell in der Ausführung und die Umschaltzeiten sind ein Traum!
 
-Möchte man zudem eine eigene Wiedergabeliste hinzufügen? Kein Problem! 
+Möchte man zudem eine eigene Wiedergabeliste hinzufügen? 
+Kein Problem! 
 Dann muss die Playliste in den Main Ordner des USB Sticks und umbenannt werden, in "My.m3u" oder "My.xml".
 Dann im Widget das USB Symbol anwählen und entsprechende Wiedergabeliste starten.
 
 
 
 Möchte man Inhalte vom USB Stick, dann wäre das der Pfad: /dtv/usb/sda1/sam.xml
+
 Die sam.xml muss dann im Main Ordner des USB Sticks liegen.
+
 Diesen Pfad /dtv/usb/sda1/sam.xml sollte man dann zudem in der start.xml eintragen.
 In der sam.xml dann eigene Adressen eintragen!
+
+Somit kann man zwar bequem Inhalte / Wiedergabelisten am PC bearbeiten und dann den USB Stick wieder in den TV "stopfen",
+jedoch ist der Zweck dieses Widget, dass viele "IHRE EIGENEN" Playlisten / Portale und Inhalte, mit der Community teilen / geteilt werden!!!
 
 Viel Spass beim Umschalten! :-)
