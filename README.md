@@ -23,7 +23,13 @@ Alternativ kann man das Widget nun auch unter dem USB Symbol, dann auf Scanner U
 Somit wäre es auf dem TV und viel schneller. Da mein TV gerootet ist, habe ich diese Methode der Widgetistallation nicht getestet, sollte aber funktionieren!
 
 Wenn man jedoch einen gerooteten TV hat (SamyGO), dann sollte man sich das Widget per FTP oder Telnet, in den Ordner: /mtd_unirw/rwcommon/widgets/user schieben.
+
 Somit ist das Widget ultraschnell in der Ausführung und die Umschaltzeiten sind ein Traum!
+
+
+Nur zur Information, der Temp Ordner des Widgets ist auf dem TV, hier zu finden: 
+/mtd_unirw/rwcommon/common/
+
 
 Möchte man zudem eine eigene Wiedergabeliste hinzufügen?
 Kein Problem!
