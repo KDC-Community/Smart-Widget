@@ -26,16 +26,11 @@ Wenn man jedoch einen gerooteten TV hat (SamyGO), dann sollte man sich das Widge
 Somit ist das Widget ultraschnell in der Ausführung und die Umschaltzeiten sind ein Traum!
 
 Möchte man zudem eine eigene Wiedergabeliste hinzufügen?
-
 Kein Problem!
-
 Dann muss die Playliste in den Main Ordner des USB Sticks und umbenannt werden,
 
 in "My.m3u" oder "My.xml".
-
 Dann im Widget das USB Symbol anwählen und entsprechende Wiedergabeliste starten.
-
-
 
 Möchte man Inhalte vom USB Stick, dann wäre das der Pfad: /dtv/usb/sda1/sam.xml
 
@@ -44,8 +39,8 @@ Die sam.xml muss dann im Main Ordner des USB Sticks liegen.
 Diesen Pfad /dtv/usb/sda1/sam.xml sollte man dann zudem in der start.xml eintragen.
 In der sam.xml dann eigene Adressen eintragen!
 
-Somit kann man zwar bequem Inhalte / Wiedergabelisten am PC bearbeiten und dann den USB Stick wieder in den TV "stopfen",
-
+Somit kann man zwar bequem Inhalte / Wiedergabelisten am PC bearbeiten
+und dann den USB Stick wieder in den TV "stopfen",
 jedoch ist der Zweck dieses Widget, 
 
 dass viele "IHRE EIGENEN" Playlisten / Portale und Inhalte erstellen und mit der Community teilen und so, unter "Andere Portale" geteilt werden können!!!
