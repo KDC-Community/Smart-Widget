@@ -1,0 +1,107 @@
+[
+    {
+        "url": "/storage/.kodi/userdata/playlists/video/takealug_epg_vavoo.m3u", 
+        "logos": "https://i.imgur.com/RC0du5v.png", 
+        "image": "https://i.imgur.com/RC0du5v.png", 
+        "cache": 0, 
+        "name": "[B][COLOR antiquewhite]===  VAVOO [COLOR antiquewhite] TV [COLOR antiquewhite]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://bit.ly/39kIpO6", 
+        "logos": "ext", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR antiquewhite]===  MYTV.FUN [COLOR antiquewhite] AUTO - TV [COLOR antiquewhite]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/3llcMCq", 
+        "logos": "ext", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  MYTV.FUN [COLOR antiquewhite] TV [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/Vllvrqv", 
+        "logos": "ext", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  MYTV.FUN [COLOR antiquewhite] VOD [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/gllviXY", 
+        "logos": "ext", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  MYTV.FUN [COLOR antiquewhite] VOD 2 [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/dllvhWa", 
+        "logos": "ext", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  MYTV.FUN [COLOR antiquewhite] SERIEN [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/KllvNUH", 
+        "logos": "", 
+        "image": "https://cutt.ly/UlQjSLM", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  MYTV.FUN [COLOR red] XXX [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/lllbt95", 
+        "logos": "", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  IPTV.RENT [COLOR antiquewhite] TV [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/Gllbs3C", 
+        "logos": "", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  IPTV.RENT [COLOR antiquewhite] VOD [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/Rllbk9W", 
+        "logos": "https://cutt.ly/UlQjSLM", 
+        "image": "https://cutt.ly/UlQjSLM", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  IPTV.RENT [COLOR red] XXX [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/CllbEX6", 
+        "logos": "", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  CDN[COLOR antiquewhite] TV [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/lllbZQG", 
+        "logos": "", 
+        "image": "ext", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  CDN [COLOR antiquewhite] VOD [COLOR lime]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/LllGUPX", 
+        "logos": "https://cutt.ly/UlQjSLM", 
+        "image": "https://cutt.ly/UlQjSLM", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]===  CDN [COLOR red] XXX [COLOR red]===[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/rlQcBjZ", 
+        "logos": "https://cutt.ly/rlQcBjZ", 
+        "image": "https://cutt.ly/rlQcBjZ", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]======================================================================[COLOR lime][/B][/COLOR]"
+    }, 
+    {
+        "url": "https://cutt.ly/rlQcBjZ", 
+        "logos": "https://cutt.ly/rlQcBjZ", 
+        "image": "https://cutt.ly/rlQcBjZ", 
+        "cache": 0, 
+        "name": "[B][COLOR lime]======================================================================[COLOR lime][/B][/COLOR]"
+    }
+]
