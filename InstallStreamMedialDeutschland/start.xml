@@ -11,7 +11,7 @@
 	<title><![CDATA[<font color='#00dd00'>Kodinerds Free TV</font>]]></title>
 	<logo_30x30>logos/nerds.jpg</logo_30x30>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>Kodinerds Free TV</h2>Deutsche Inhalte. TV und Radio</td></tr></table>]]></description>
-	<playlist_url>http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u</playlist_url>
+	<playlist_url>XML/kn.xml</playlist_url>
 </channel>
 <channel>
 	<title>Andere Portale</title>

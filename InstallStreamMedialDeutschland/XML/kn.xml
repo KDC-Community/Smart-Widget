@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Kodinerds Free TV Playlist</playlist_name>
+
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Kodi Playlist TV & Radio</font>]]></title>
+	<logo_30x30>logos/open.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>PVR IPTV SIMPLE</h2>Kodi-Streams (PVR-IPTV Simple).<br> Beinhaltet alle TV- und Radiosender.</td></tr></table>]]></description>
+	<playlist_url>http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Kodi Playlist Radio</font>]]></title>
+	<logo_30x30>logos/radio.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>PVR IPTV SIMPLE</h2>Kodi-Streams (PVR-IPTV Simple).<br> Beinhaltet nur Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_radio.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>VLC Playlist TV & Radio</font>]]></title>
+	<logo_30x30>logos/open.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>VLC</h2>Clean-Streams(VLC media player).<br> Beinhaltet alle TV- und Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>VLC Playlist Radio</font>]]></title>
+	<logo_30x30>logos/radio.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>VLC</h2>Clean-Streams(VLC media player).<br> Beinhaltet nur Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_radio.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Tvheadend Playlist TV & Radio</font>]]></title>
+	<logo_30x30>logos/open.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>TV-Headend</h2>Pipe-Streams(Tvheadend).<br> Beinhaltet alle TV- und Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Tvheadend Playlist Radio</font>]]></title>
+	<logo_30x30>logos/radio.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>TV-Headend</h2>Pipe-Streams(Tvheadend).<br> Beinhaltet nur Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe_radio.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>RTMP Playlist TV & Radio</font>]]></title>
+	<logo_30x30>logos/open.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>RTMP</h2>RTMP-Streams.<br> Beinhaltet alle TV- und Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/rtmp.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Dash Playlist TV & Radio</font>]]></title>
+	<logo_30x30>logos/open.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>DASH</h2>DASH-Streams.<br> Beinhaltet alle TV- und Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash.m3u</playlist_url>
+</channel>
+<channel>
+	<title><![CDATA[<font color='#ffffff'>Dash Playlist Radio</font>]]></title>
+	<logo_30x30>logos/radio.png</logo_30x30>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://i.imgur.com/uj4OdQ7.jpg" height="128" width="128"></img></td><td><h2>DASH</h2>DASH-Streams.<br> Beinhaltet nur Radiosender.</td></tr></table>]]></description>
+	<playlist_url>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash_radio.m3u</playlist_url>
+</channel>
+</items>
+
+
