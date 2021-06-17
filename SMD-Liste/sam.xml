@@ -30,9 +30,10 @@
 	<category_id>4</category_id>
 </channel>
 <channel>
-	<title>MyTV Fun VOD Liste</title>
-	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/master/SMD-Liste/mfm</playlist_url>
-	<description>Samsung TV Widget MyTV Fun VOD Liste. Username und Passwort müssen eingetragen werden.</description>
+	<title>MyTV Fun XXX Liste</title>
+	<logo_30x30>logos/Adult.png</logo_30x30>
+	<playlist_url>https://raw.githubusercontent.com/KDC-Community/Smart-Widget/master/SMD-Liste/mfx</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://cutt.ly/UlQjSLM" height="128" width="128"></img></td><td><h2>PORNO</h2>Under 18, then STOP here!<br></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
 <channel>
@@ -43,8 +44,9 @@
 </channel>
 <channel>
 	<title>XXX Liste</title>
+	<logo_30x30>logos/Adult.png</logo_30x30>
 	<playlist_url>http://samigiptv.ucoz.net/PornVid1Releas.m3u</playlist_url>
-	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://cutt.ly/UlQjSLM" height="128" width="128"></img></td><td><h2>XXX</h2>Playlist<br>Under 18, then STOP here!</td></tr></table>]]></description>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="https://cutt.ly/UlQjSLM" height="128" width="128"></img></td><td><h2>PORNO</h2>Under 18, then STOP here!<br></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
 <channel>
